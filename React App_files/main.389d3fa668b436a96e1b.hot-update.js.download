@@ -1,0 +1,26 @@
+webpackHotUpdate("main",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/header.css":
+/*!***************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/header.css ***!
+  \***************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".App {\r\n    text-align: center;\r\n  }\r\n  \r\n  .App-logo {\r\n    height: 40vmin;\r\n    pointer-events: none;\r\n  }\r\n  \r\n  @media (prefers-reduced-motion: no-preference) {\r\n    .App-logo {\r\n      animation: App-logo-spin infinite 20s linear;\r\n    }\r\n  }\r\n  \r\n  .App-header {\r\n    background-color: #282c34;\r\n    min-height: 100vh;\r\n    display: flex;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    justify-content: center;\r\n    font-size: calc(10px + 2vmin);\r\n    color: white;\r\n  }\r\n  \r\n  .App-link {\r\n    color: #61dafb;\r\n  }\r\n  \r\n  @keyframes App-logo-spin {\r\n    from {\r\n      transform: rotate(0deg);\r\n    }\r\n    to {\r\n      transform: rotate(360deg);\r\n    }\r\n  }\r\n  .header{\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    height: 52px;\r\n    background-color: yellow;\r\n  }\r\n  .imghome{\r\n    /* width:120px; */\r\n    height:35px;\r\n    resize: contain;\r\n  }\r\n  .imghome{\r\n     /* float: left; */\r\n  }\r\n  .header-link{\r\n      /* float: right; */\r\n  }\r\n  .center{\r\n      height:100% ;\r\n      display: flex;\r\n      align-items: center;\r\n  }", "",{"version":3,"sources":["webpack://src/header.css"],"names":[],"mappings":"AAAA;IACI,kBAAkB;EACpB;;EAEA;IACE,cAAc;IACd,oBAAoB;EACtB;;EAEA;IACE;MACE,4CAA4C;IAC9C;EACF;;EAEA;IACE,yBAAyB;IACzB,iBAAiB;IACjB,aAAa;IACb,sBAAsB;IACtB,mBAAmB;IACnB,uBAAuB;IACvB,6BAA6B;IAC7B,YAAY;EACd;;EAEA;IACE,cAAc;EAChB;;EAEA;IACE;MACE,uBAAuB;IACzB;IACA;MACE,yBAAyB;IAC3B;EACF;EACA;IACE,aAAa;IACb,8BAA8B;IAC9B,mBAAmB;IACnB,YAAY;IACZ,wBAAwB;EAC1B;EACA;IACE,iBAAiB;IACjB,WAAW;IACX,eAAe;EACjB;EACA;KACG,iBAAiB;EACpB;EACA;MACI,kBAAkB;EACtB;EACA;MACI,YAAY;MACZ,aAAa;MACb,mBAAmB;EACvB","sourcesContent":[".App {\r\n    text-align: center;\r\n  }\r\n  \r\n  .App-logo {\r\n    height: 40vmin;\r\n    pointer-events: none;\r\n  }\r\n  \r\n  @media (prefers-reduced-motion: no-preference) {\r\n    .App-logo {\r\n      animation: App-logo-spin infinite 20s linear;\r\n    }\r\n  }\r\n  \r\n  .App-header {\r\n    background-color: #282c34;\r\n    min-height: 100vh;\r\n    display: flex;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    justify-content: center;\r\n    font-size: calc(10px + 2vmin);\r\n    color: white;\r\n  }\r\n  \r\n  .App-link {\r\n    color: #61dafb;\r\n  }\r\n  \r\n  @keyframes App-logo-spin {\r\n    from {\r\n      transform: rotate(0deg);\r\n    }\r\n    to {\r\n      transform: rotate(360deg);\r\n    }\r\n  }\r\n  .header{\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    height: 52px;\r\n    background-color: yellow;\r\n  }\r\n  .imghome{\r\n    /* width:120px; */\r\n    height:35px;\r\n    resize: contain;\r\n  }\r\n  .imghome{\r\n     /* float: left; */\r\n  }\r\n  .header-link{\r\n      /* float: right; */\r\n  }\r\n  .center{\r\n      height:100% ;\r\n      display: flex;\r\n      align-items: center;\r\n  }"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ })
+
+})
+//# sourceMappingURL=main.389d3fa668b436a96e1b.hot-update.js.map

@@ -1,0 +1,115 @@
+                        .navbar {
+                            background-color: yellow;
+                        }
+                        
+                        .navbar-nav {
+                            float: right;
+                        }
+                        
+                        .header {
+                            display: flex;
+                            justify-content: space-between;
+                            background-color: yellow;
+                        }
+                        
+                        .header-link {
+                            list-style-type: none;
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: space-between;
+                            align-items: center;
+                        }
+                        
+                        .cd {
+                            /* border:2px solid red; */
+                            height: 29px;
+                            /* width:1066px; */
+                        }
+                        
+                        .sum {
+                            padding-right: 23px;
+                            /* float:right; */
+                        }
+                        
+                        .frontimage {
+                            height: 470px;
+                            width: 1349px;
+                            background-image: url(./72582.jpg);
+                            background-repeat: no-repeat;
+                            background-size: cover;
+                            background-position: center;
+                            /* object-po; */
+                            /* background-image: url(./images/car.png); */
+                        }
+                        
+                        .imghome {
+                            width: 220px;
+                            height: 29px;
+                            /* resize: cover; */
+                        }
+                        
+                        .cardimage {
+                            padding: 3% 5%;
+                        }
+                        
+                        .img1 {
+                            background-image: url(./pet-friendly.png);
+                            background-repeat: no-repeat;
+                            height: 350px;
+                        }
+                        
+                        .img2 {
+                            background-image: url(./luxury.png);
+                            background-repeat: no-repeat;
+                            height: 350px;
+                        }
+                        
+                        .img3 {
+                            background-image: url(./rarotonga.png);
+                            background-repeat: no-repeat;
+                            height: 350px;
+                        }
+                        
+                        .img4 {
+                            background-image: url(./staff-picks.png);
+                            background-repeat: no-repeat;
+                            height: 350px;
+                        }
+                        
+                        .card {
+                            width: 18rem;
+                        }
+                        
+                        .addheight {
+                            /* height:221px;
+    width:288px;
+    padding:12px; */
+                            /* padding:42px; */
+                            background-color: red;
+                        }
+                        
+                        .w-25 {
+                            background-color: yellow;
+                        }
+                        
+                        .imgdimension {
+                            /* height:221px; */
+                            /* width:288px; */
+                            /* padding:42px; */
+                            background-color: green;
+                        }
+                        
+                        .frontimagetext {
+                            color: #fff;
+                            font-size: 52px;
+                            text-align: left;
+                            padding: 179px;
+                        }
+                        
+                        .red {
+                            background-color: red;
+                        }
+                        
+                        .carouselpadding {
+                            padding: 10px;
+                        }
